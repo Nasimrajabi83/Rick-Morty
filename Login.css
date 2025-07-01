@@ -1,0 +1,26 @@
+body {
+height: 100%;
+padding: 0;
+margin: 0;
+  }
+  .loginpage{
+    align-items: center;
+    justify-content: center;
+    background: url('img4.jpg') center/cover no-repeat;
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+    overflow: hidden;
+  }
+.glass {
+    background: rgba(56, 57, 57, 0.311);
+    backdrop-filter: blur(0px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(87, 142, 184, 0.3);
+    border-radius: 16px;
+    box-shadow: 0 3px 20px rgba(190, 232, 247, 0.418);
+  }
+  .a{
+    color: rgb(190, 232, 247);
+  }
+  
